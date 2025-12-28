@@ -1,0 +1,12 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Spicy Hub",
+      "menu": [
+        { "id": "m1", "name": "Dosa", "price": 60 },
+        { "id": "m2", "name": "Idli", "price": 40 }
+      ]
+    }
+  ]
+}
