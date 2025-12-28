@@ -1,26 +1,27 @@
-<<<<<<< HEAD
 # Mini Food Delivery App
 
-## Tech
+## Tech Stack
 - React Native (Bare CLI)
 - TypeScript
 - Zustand
 - TanStack Query
 
+## Features
+- Restaurant listing
+- Menu view
+- Global cart management
+
 ## Setup
 1. npm install
-2. npm run android / ios
-3. Run mock API using json-server
+2. npx react-native run-android / run-ios
+3. Start mock API using json-server
 
-## Architecture
+## Architecture Decisions
 - Server state handled with TanStack Query
-- Cart logic handled with Zustand outside UI
-- UI components kept dumb
+- Cart state managed with Zustand outside UI components
+- Clean separation of UI, state, and data layers
 
 ## Screens
-- Home
-- Restaurant
-- Cart
-=======
-# mini-food-delivery-app
->>>>>>> f38002b5c4ecf4d89ef5e468e6e38fe32160e9aa
+- Home Screen
+- Restaurant Screen
+- Cart Screen
