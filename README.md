@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Food Delivery App
 
 ## Tech
@@ -20,3 +21,6 @@
 - Home
 - Restaurant
 - Cart
+=======
+# mini-food-delivery-app
+>>>>>>> f38002b5c4ecf4d89ef5e468e6e38fe32160e9aa
